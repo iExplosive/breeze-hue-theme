@@ -4,10 +4,10 @@
     "description": "Based off of One Dark material.",
     "version": "1.0.0",
     "author": "iExplosive",
-    "homepage": "https://comingsoon.co",
+    "homepage": "https://github.com/iExplosive/breeze-hue-theme",
     "repository": {
         "type": "git",
-        "url": "https://comingsoon.co"
+        "url": "https://github.com/iExplosive/breeze-hue-theme"
     },
     "keywords": [
         "dark",
